@@ -1,0 +1,15 @@
+E:\USER\Вуылещз\CS\CS_DZ_9\bin\Debug\net6.0\CS_DZ_9.exe
+E:\USER\Вуылещз\CS\CS_DZ_9\bin\Debug\net6.0\CS_DZ_9.deps.json
+E:\USER\Вуылещз\CS\CS_DZ_9\bin\Debug\net6.0\CS_DZ_9.runtimeconfig.json
+E:\USER\Вуылещз\CS\CS_DZ_9\bin\Debug\net6.0\CS_DZ_9.dll
+E:\USER\Вуылещз\CS\CS_DZ_9\bin\Debug\net6.0\CS_DZ_9.pdb
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\CS_DZ_9.csproj.AssemblyReference.cache
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\CS_DZ_9.GeneratedMSBuildEditorConfig.editorconfig
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\CS_DZ_9.AssemblyInfoInputs.cache
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\CS_DZ_9.AssemblyInfo.cs
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\CS_DZ_9.csproj.CoreCompileInputs.cache
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\CS_DZ_9.dll
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\refint\CS_DZ_9.dll
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\CS_DZ_9.pdb
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\CS_DZ_9.genruntimeconfig.cache
+E:\USER\Вуылещз\CS\CS_DZ_9\obj\Debug\net6.0\ref\CS_DZ_9.dll
